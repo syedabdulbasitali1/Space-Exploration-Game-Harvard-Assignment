@@ -51,7 +51,20 @@ Ready to explore space? Download the game, follow the instructions, and embark o
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 📫 Contact
+For any questions or feedback, feel free to reach out:
+- ![Email Icon](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)    [arenag277@gmail.com](mailto:arenag277@gmail.com) 
+- ![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white) [Syed Abdul Basit Ali](https://www.linkedin.com/in/syedabdulbasitali1) 
+- ![GitHub Icon](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white) [GitHub Profile](https://github.com/syedabdulbasitali1) 
+- ![Dev Community Icon](https://img.shields.io/badge/DevCommunity-%230A0A0A?style=flat-square&logo=dev&logoColor=white) [Your Profile](https://dev.to/syedabdulbasitali) 
+- ![X Icon](https://img.shields.io/badge/X-%231DA1F2?style=flat-square&logo=twitter&logoColor=white) [@YourUsername](https://x.com/syedabdulbasitali) 
+- ![YouTube Icon](https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=youtube&logoColor=white) [Your Channel](https://www.youtube.com/channel/yourchannelid) 
+- ![Facebook Icon](https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white) [Your Profile](https://www.facebook.com/syedabdulbasitali)
+
 ---
 
-This README file now includes icons to make it more visually engaging, while the instructions are clear and easy to follow. It’s also SEO-friendly, making it easier for others to find and understand your project. The `.sb3` extension is highlighted in the instructions, ensuring users know exactly how to load and play your game.
 # Space-Exploration-Game-Harvard-Assignment
+
+---
+
+> Crafted with ❤️ by [Syed Abdul Basit Ali](https://github.com/syedabdulbasitali1)
